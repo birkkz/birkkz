@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**birkkz/birkkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studing Cybersecurity of web apply
+💼 Working as a Freelancer of back-end and Data Analyse
+🌱 Learning MySQL
 
-Here are some ideas to get you started:
+📌 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java | JavaScript | HTML5 | CSS | Python
+
+DevOps🕯️
+
+Git | GitHub
+
+Ferramentas de desenvolvimento 🧰🔧
+
+Visual Studio | Web Storm | Atom
