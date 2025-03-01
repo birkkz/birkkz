@@ -18,4 +18,4 @@ Git | GitHub
 
 Ferramentas de desenvolvimento 🧰🔧
 
-Visual Studio | Web Storm | Atom
+Visual Studio | Web Storm | Atom | Pycharm
