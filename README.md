@@ -5,7 +5,7 @@
 
 🌱 Learning MySQL
 
-📌 My Skills
+📌 My Skills:
 
 
 Java | JavaScript | HTML5 | CSS | Python
