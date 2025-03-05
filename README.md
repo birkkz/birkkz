@@ -1,9 +1,8 @@
 
 🎓 Studing Cybersecurity of web apply
 
-💼 Working as a Freelancer of back-end and Data Analyse
+💼 Working as a Freelancer of back-end, Pentests and Data Analyse
 
-🌱 Learning MySQL
 
 📌 My Skills:
 
