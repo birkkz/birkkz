@@ -7,7 +7,8 @@
 📌 My Skills:
 
 
-Java | JavaScript | HTML5 | CSS | Python
+JavaScript | HTML5 | CSS | Python | Node.js | Mysql | Next.js
+
 
 DevOps🕯️
 
