@@ -1,13 +1,13 @@
 
-🎓 Studing Cybersecurity of web apply
+🎓 Cibersecurity and
 
-💼 Working as a Freelancer of back-end, Pentests and Data Analyse
+💼 Improving myself in cyber security and pentest
 
 
 📌 My Skills:
 
 
-JavaScript | HTML5 | CSS | Python | Node.js | Mysql | Next.js
+JavaScript | HTML5 | CSS | Python | Node.js | Mysql | Express.js
 
 
 DevOps🕯️
@@ -16,6 +16,6 @@ DevOps🕯️
 Git | GitHub
 
 
-Ferramentas de desenvolvimento 🧰🔧
+Development Tools 🧰🔧
 
-Visual Studio | Web Storm | Atom | Pycharm
+Visual Studio Code | Web Storm | Atom | Pycharm | Microsoft Workbench | Kali Linux tools
