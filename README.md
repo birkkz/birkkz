@@ -18,4 +18,4 @@ Git | GitHub
 
 Development Tools 🧰🔧
 
-Visual Studio Code  |  Web Storm  |  Atom  |  Pycharm  |  Microsoft Workbench  |  Kali Linux tools
+Visual Studio Code  |  Web Storm  |  Atom  |  Pycharm  |  Microsoft Workbench 
