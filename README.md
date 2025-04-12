@@ -1,5 +1,5 @@
 
-🎓 Cibersecurity and
+🎓 Cibersecurity and Proggramer
 
 💼 Improving myself in cyber security and pentest
 
